@@ -1,1 +1,1 @@
-
+Homework 5 asks students to learn to segment images by assigning each pixel to a cluster, where each cluster represents a semantic object category. We analysze different unsupervised clustering algorithms like K-means and hierarchical aggolomerate clustering techniques. They also learn to apply their techniques to segments cats from images and evaluate how well different methods perform.
